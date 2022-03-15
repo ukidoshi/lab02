@@ -2,6 +2,7 @@
 #include <string>
 
 int main(){
+//какие то комменты
 	std::cout<<"hello world!"<<std::endl;
 	string name;
 	std::cin>>name;
