@@ -3,9 +3,12 @@
 
 using namespace std;
 
-int main(){
-	cout<<"hello world!"<<endl;
-	string name;
-	cin>>name;
-	cout<<"Hello world from "<<name<<endl;
+int
+main()
+{
+  cout << "hello world!" << endl;
+  string name;
+  cin >> name;
+  cout << "Hello world from " << name << endl;
 }
+
